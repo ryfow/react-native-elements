@@ -2089,6 +2089,14 @@ export interface Colors {
       error: string;
       warning: string;
     };
+    windows: {
+      primary: string;
+      secondary: string;
+      success: string;
+      error: string;
+      warning: string;
+    };
+
   };
 }
 
